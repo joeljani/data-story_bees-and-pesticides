@@ -13,5 +13,5 @@ This data story examines if there is a correlation between the bee colony losses
 To the fetch the data simply run the read_data.py script.
 
 # Author
-Joel Jani
-for the module "Data Science with python" at the University of applied scienes northwestern Switzerland.
+Joel Jani,
+for the 2018FW module "Data Science with python" at the University of applied scienes northwestern Switzerland.
